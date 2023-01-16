@@ -1,3 +1,3 @@
-#Aprendendo Python do zero , essa é toda timeline.
-Um mero padawan hahaha.
+## Aprendendo Python do zero  
 
+* Esse é a timeline do meu aprendizado .
